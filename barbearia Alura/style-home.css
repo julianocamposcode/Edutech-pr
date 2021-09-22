@@ -1,0 +1,52 @@
+
+ #foto{
+ 	width:100%
+}
+
+.titulo-princip{
+	padding:20px
+}
+.principal{
+	background:#CCCCCC;
+	padding:30px;
+}
+
+
+ .titulo{
+	  text-align: center
+ }
+
+p{
+    text-align: center
+
+}
+
+#fonte {
+	 font-size:20px
+}
+ em strong{
+
+	    	color:#FF0000
+
+}
+.text {
+	font-style:italic;
+	color:black	
+}
+.beneficios{
+	background:#FFFFFF;
+	padding:20px;
+}
+
+
+
+ul{
+	 display:inline-block;
+	 vertical-align:top;
+	 width:20%;
+	 margin-right:15%
+}
+
+.foto2{
+	width:50%
+}
