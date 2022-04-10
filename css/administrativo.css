@@ -1,0 +1,302 @@
+.logo_micro {
+	width: 3rem;
+	padding: -2px; 
+}
+
+.burguer {
+	color: white;
+	margin-right: 15px;
+	margin-bottom: -.5rem;
+}
+
+.nav_espacamento {
+	margin-left: 4em; 
+}
+
+.around {
+	margin: 10px;
+	margin-right: 10em;
+}
+
+.color {
+	background-color: #0d5b80;
+}
+
+.cor_link {
+	font-size: 20px;
+	font-family: 'Pacifico';
+	text-decoration: none; 
+	color: white!important;
+}
+
+
+.title {
+	margin-left: 20px;
+	font-family: 'Pacifico';
+}
+
+.subtitle {
+	color: #103354;
+	font-weight: bold; 
+}
+
+.text {
+	color: #103354;
+}
+
+@media screen and (min-width: 200px) {
+	.menu_mobile {
+		align-items: center;
+		margin-left: 118px;
+	}
+
+	.title {
+		padding: 1rem; 
+		text-align: center;
+	}
+
+	.icons_administrativos {
+		width: 70px;
+		position: absolute;
+	}
+
+	.texto_icons {
+		margin-left: 70px;
+	}
+
+	.bold {
+		margin: 1em;
+	}
+
+	.img__logo {
+		margin-top: 7px;
+		display: inline-block;
+	}
+
+	.tec_administracao {
+		width: 100%;
+		height: 300px;
+		object-fit: cover;
+	}
+
+	.contato{
+		display: inline-block;
+		margin-top: 30px;
+	}
+
+	.logo_micro2 {
+		margin-bottom: 25px;
+		width: 15em; 
+		padding: 2em; 
+	}
+
+	.beneficios {
+		padding: 1em;
+	}
+
+	.inputs_checkbox {
+		margin: 5px; 
+	}
+
+	#btn {
+		background-color: #d4c719!important;
+		width: 100%;
+		margin-top: 20px;
+		height: 40px;
+	}
+
+	.titulo_form {
+		padding-top: 1em;
+		text-align: center; 
+	}
+
+	/*CARD--2*/
+
+	#card_2 {
+		display: table;
+	}
+
+	.title2 {
+		text-align: center;
+		margin-top: 20px;
+	}
+
+	.icon_sociais {
+		margin-left: 2em;
+		width: 2em!important;
+	}
+
+	footer {
+		background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjfR9oKqCzWTrqTgGEq53AlGoo-eAF288Cd_Q25_IsBLmQq3wdK7RZCg0bnX7v2w4Mlgs&usqp=CAU');
+		object-fit: cover;
+	}
+
+	.logo_footer{
+		width: 13em;
+	}
+}
+
+@media screen and (min-width: 1024px) {
+	.descricao {
+		margin: 0 0 1em 10em;
+	}
+
+	.tec_administracao {
+		width: 100%;
+		height: 500px;
+		object-position: 3 1;
+		object-fit: cover;
+	}
+
+	.card_spacamento {
+		margin-left: -8em;
+		position: relative;
+		margin-right: 100px;
+		padding: 2rem; 
+	}
+
+	.text {
+		margin: 2rem;
+		margin-top: -1px;
+	}
+
+	.subtitle {
+		margin-left: 2rem;
+	}
+
+	.icons_administrativos {
+		width: 6em;
+		position: absolute;
+	}
+
+	.texto_icons {
+		margin-left: 90px;
+		margin-top: 15px;
+	}
+
+	.beneficios {
+		padding: 1em;
+	}
+
+	.bold {
+		font-weight: bold;
+		font-size: 30px;
+	}
+
+	form {
+		max-width: 500px;
+	}
+
+	.titulo_form {
+		margin: 2em;
+		margin-left: 1em;
+	}
+
+	.h2 { 
+		margin-left: 54px;
+	}
+
+	.h4 {
+		margin-left: 90px: 
+	}
+
+	.preço {
+		margin-left: 40px; 
+		font-size: 23px;
+		font-weight: bold;
+	}	
+
+	.preço:nth-child(2) {
+		margin-left: 90px;
+	}
+
+
+	.input {
+		margin: 1em;
+	}
+
+	label {
+		margin: 5px;
+	}
+
+	.inputs_checkbox {
+		padding: 1em; 
+	}
+
+	#btn {
+		background-color: #d4c719!important;
+		width: 100%;
+		height: 40px;
+	}
+
+	.logo_micro2 {
+		margin-top: -125px;
+		width: 15em; 
+		padding: 2em; 
+	}
+
+	.img__logo {
+		margin-top: 7px;
+		display: inline-block;
+	}
+
+	.contato{
+		display: inline-block;
+		margin-top: 30px;
+	}
+
+	/*CARD--2*/
+
+	#card_2{
+		display: flex;
+	}
+
+	.title2 {
+		margin-top: 45px;
+		position: absolute;
+	}
+
+	.img-tecnico {
+		margin: 5em 0 0;
+		width: 90%;
+		height: 6%;
+	}
+
+	.img-tecnico:hover {
+		opacity: 80%;
+	}
+
+	.p1 {
+		position: absolute;
+		top: 49em;
+		margin: 5em 0 0;
+	}
+
+	.p2 {
+		position: absolute;
+		top: 56em;
+		margin: 5em 0 0;
+	}
+
+	.p3 {
+		position: absolute;
+		top: 64em;
+		margin: 5em 0 0;	
+	}
+
+	.p4 {
+		position: absolute;
+		top: 77em;
+		margin: 5em 0 0;	
+	}
+
+	.p5 {
+		position: absolute;
+		top: 85em;
+		margin: 5em 0 0;	
+	}
+
+	.icon_sociais {
+		padding-left: 10em;
+		width: 14em!important;
+	}
